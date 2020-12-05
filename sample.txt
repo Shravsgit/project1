@@ -6,3 +6,6 @@ i have 4 years experience
 
 
  i have add one more line for pull
+
+
+i have added for git clone
